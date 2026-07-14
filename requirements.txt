@@ -1,0 +1,5 @@
+crewai
+ollama
+python-docx
+streamlit
+langchain-community
